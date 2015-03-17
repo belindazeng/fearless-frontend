@@ -1,0 +1,48 @@
+/**
+ * ==============================================================
+ * COLOR STYLESHEET - DREW
+ * ==============================================================
+ */
+
+/**
+ * YELLOW
+ * - basic      : #d7c369 (215,195,105)
+ * - darken 5%  : #cab65c (202,182,92)
+ * - darken 10% : #beaa50 (190,170,80)
+ */
+
+/* BOOTSTRAP OVERRIDE */
+
+
+/* PRICING TABLE */
+.section-accent .pricing-package {
+	background-color: #DF9602;
+}
+.pricing-package-header {
+	border-bottom-color: #DF9602;
+}
+.section-dark .pricing-package-header {
+	background-color: #DF9602;
+}
+/* TESTIMONIAL */
+.section-accent .testimonial {
+	background-color: #cab65c;
+}
+.testimonial-ratings {
+	color: #d7c369;
+}
+/* TEAM */
+.section-accent .team-member {
+	background-color: #d7c369;
+}
+.section-accent .team-member.even {
+	background-color: #cab65c;
+}
+.section-accent .team-member-icon {
+	border-color: #d7c369;
+}
+
+/* JPRELOADER */
+#jpreBar {
+	background-color: #d7c369;
+}
